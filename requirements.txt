@@ -1,0 +1,7 @@
+keras==3.6.0
+tensorflow==2.18.0
+tensorflow-io-gcs-filesystem==0.37.1
+numpy==2.0.2
+ipykernel==6.29.5
+matplotlib==3.9.2
+matplotlib-inline=0.1.7
